@@ -10,7 +10,9 @@ The Horiseon page features a large hero banner, three main sections, and a sideb
 
 ## Links
 [Screenshot of Page](assets/images/deployed-page.png)
+
 [Deployed Page](https://rugbyveronica.github.io/HoriseonSEO-Project/)
+
 [Repository](https://github.com/RugbyVeronica/HoriseonSEO-Project)
 
 ## Refactor Comments
