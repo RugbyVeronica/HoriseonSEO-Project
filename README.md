@@ -8,6 +8,11 @@ Semantic HTML and image alt attributes were added to increase Search Engine Opti
 
 The Horiseon page features a large hero banner, three main sections, and a sidebar.
 
+## Links
+[Screenshot of Page](assets/images/deployed-page.png)
+[Deployed Page](https://rugbyveronica.github.io/HoriseonSEO-Project/)
+[Repository](https://github.com/RugbyVeronica/HoriseonSEO-Project)
+
 ## Refactor Comments
 1. Text now flows when resizing the browser.
 2. Any repetitive styles were bunched together.
@@ -19,5 +24,5 @@ The Horiseon page features a large hero banner, three main sections, and a sideb
 8. Identified the style selectors to match the changes to semantic elements.
 
 ## Contributions
-* Horiseon page created by [UCF Boot Camp](https://github.com/coding-boot-camp/urban-octo-telegram)
-* Code refactoring by Veronica Lake
+- Horiseon page created by [UCF Boot Camp](https://github.com/coding-boot-camp/urban-octo-telegram)
+- Code refactoring by Veronica Lake
